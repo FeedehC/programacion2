@@ -1,2 +1,2 @@
 import random
-print("Hola")
+print("Hola mundito")
